@@ -3,27 +3,19 @@ new test function
 
 New sentence from master
 
-<<<<<<< HEAD
 function version1(length)
-=======
-
-
->>>>>>> version1
-
-
-<<<<<<< HEAD
-function version2(mass)
 
 end
 
-=======
+function version2(mass)
 
-
-
-
+end
 
 function bigVersion1()
 	this is v1
 
 end
->>>>>>> version1
+
+function bigVersion2(x,y,z)
+		new sentence verison2 
+end
