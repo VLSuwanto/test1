@@ -5,3 +5,6 @@ Changes from version1 branch
 
 
 new sentence from version2 branch
+
+
+another new sentence from version1
